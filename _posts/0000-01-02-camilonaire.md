@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our Second slide!"
 ---
-Your text
+Not all who wander are lost.
 Press the left arrow to go back!
